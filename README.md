@@ -394,7 +394,8 @@ dan ini hasil program tersebut:
 
 Eksekusi program tersebut:
 
-![image](https://github.com/user-attachments/assets/59a89243-633a-42fc-ad66-8eae363d3d19)
+
+![image](https://github.com/user-attachments/assets/b5bcceb7-6a3b-40c3-9445-d3b90c852fdc)
 
 dan flowchartnya
 
