@@ -300,9 +300,8 @@ Dan ini hasil program tersebut:
 
 
 
-<img width="554" alt="image" src="https://github.com/user-attachments/assets/ee4cd1fa-cd85-4854-837e-15ee0a8606d9">
 
-
+![image](https://github.com/user-attachments/assets/e4086102-9c8e-43c9-9763-95c1af26dd55)
 
 Eksekusi dari program tersebut:
 
