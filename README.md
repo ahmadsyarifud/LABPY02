@@ -299,13 +299,15 @@ jika menginputkan selain (ya/tidak) output yang keluar "Harga tidak dapat dihitu
 Dan ini hasil program tersebut:
 
 
-![image](https://github.com/user-attachments/assets/77402493-13dd-4e4b-bd3a-d04017c5ff3a)
+
+<img width="554" alt="image" src="https://github.com/user-attachments/assets/ee4cd1fa-cd85-4854-837e-15ee0a8606d9">
 
 
 
 Eksekusi dari program tersebut:
 
-![image](https://github.com/user-attachments/assets/4bdd4875-acd9-445e-b1ed-835bdb3dfb8c)
+
+![image](https://github.com/user-attachments/assets/55892dac-c991-447f-8090-bfc2c528e502)
 
 
 Dan flowchartnya:
