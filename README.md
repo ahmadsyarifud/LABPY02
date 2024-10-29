@@ -389,8 +389,8 @@ saya memasukan desision else ini Karna jika menjawab selain fungsi operator ini 
 
 dan ini hasil program tersebut:
 
-![image](https://github.com/user-attachments/assets/42e43cb8-8da6-4a41-a92e-72a00a6d2576)
 
+![image](https://github.com/user-attachments/assets/465c8c7f-fd33-42dc-971d-81c0ccd0a97f)
 
 Eksekusi program tersebut:
 
