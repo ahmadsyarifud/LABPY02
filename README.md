@@ -206,7 +206,8 @@ Menggunakan print() untuk menampilkan hasil kepada pengguna, termasuk nama, gaji
 
 ## BERIKUT HASIL SCREENSHOOT VISUALCODE
 
-![image](https://github.com/user-attachments/assets/27c69565-aafc-42ab-a25b-a0db679af7af)
+
+![image](https://github.com/user-attachments/assets/f36a7faf-77a0-4148-a28f-f634f5287dbe)
 
 
 ## Latihan 3
