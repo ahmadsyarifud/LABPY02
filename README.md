@@ -301,7 +301,9 @@ Dan ini hasil program tersebut:
 
 
 
-![image](https://github.com/user-attachments/assets/e4086102-9c8e-43c9-9763-95c1af26dd55)
+
+<img width="554" alt="image" src="https://github.com/user-attachments/assets/6aed6faf-627e-48ad-b69e-ea3e2599cbf4">
+3-95c1af26dd55)
 
 Eksekusi dari program tersebut:
 
