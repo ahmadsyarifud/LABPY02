@@ -55,7 +55,9 @@ Output:
 
 ## BERIKUT SCREENSHOT VISUALCODE
 
-![image](https://github.com/user-attachments/assets/f569697c-cc64-42b3-aefe-4f31cc4d55db)
+
+![image](https://github.com/user-attachments/assets/12bccc6a-cc15-42d0-aeab-e1ac44d8db0e)
+
 
 
 ## LATIHAN 2
